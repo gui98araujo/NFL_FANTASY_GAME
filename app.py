@@ -158,7 +158,7 @@ st.markdown("""
 def load_data():
     """Carrega os dados da NFL"""
     
-    data_dir = "/home/ubuntu/nfl_data"
+    data_dir = ""
     
     try:
         # Carregar dados consolidados
