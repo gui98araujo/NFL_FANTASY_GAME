@@ -1,0 +1,61 @@
+{
+  "collection_date": "2025-09-18T17:56:03.935390",
+  "years_collected": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "total_weekly_records": 78682,
+  "total_players": 2212,
+  "positions": [
+    "QB",
+    "RB",
+    "WR",
+    "TE"
+  ],
+  "teams": 32,
+  "columns_available": 62,
+  "fantasy_columns": [
+    "passing_yards",
+    "passing_tds",
+    "sack_yards",
+    "passing_air_yards",
+    "passing_yards_after_catch",
+    "rushing_yards",
+    "rushing_tds",
+    "receptions",
+    "targets",
+    "receiving_yards",
+    "receiving_tds",
+    "receiving_air_yards",
+    "receiving_yards_after_catch",
+    "target_share",
+    "air_yards_share",
+    "special_teams_tds",
+    "fantasy_points",
+    "fantasy_points_ppr"
+  ],
+  "files_created": [
+    "weekly_fantasy_data.csv",
+    "seasonal_data.csv",
+    "team_data.csv",
+    "roster_fantasy_data.csv",
+    "consolidated_fantasy_data.csv",
+    "qb_data.csv",
+    "rb_data.csv",
+    "wr_data.csv",
+    "te_data.csv"
+  ]
+}
