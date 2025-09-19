@@ -168,7 +168,7 @@ def load_data():
         teams_df = pd.read_csv(f"{data_dir}team_data.csv")
         
         # Carregar resumo
-        with open(f"{data_dir}/data_summary.json", 'r') as f:
+        with open(f"{data_dir}data_summary.json", 'r') as f:
             summary = json.load(f)
         
         return df, teams_df, summary
